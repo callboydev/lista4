@@ -1,0 +1,6 @@
+(x) o último elemento a ser removido da fila é o número 14.
+(x) 11 e 29
+(x) as pilhas são estruturas que recuperam os dados na ordem reversa em que eles foram
+armazenados.
+(x) Fila, pois, em uma estrutura de fila os incidentes são enfileirados de modo que o primeiro incidente
+que chegar será o primeiro a sair da fila para ser atendido.
